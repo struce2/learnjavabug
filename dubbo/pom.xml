@@ -15,7 +15,7 @@
 
   <properties>
     <!--如果curator版本与zookeeper不对应，会报错：KeeperErrorCode = Unimplemented for /dubbo/com.demo.common.HelloService-->
-    <curator.version>2.9.1</curator.version>
+    <curator.version>4.0.0</curator.version>
   </properties>
 
   <dependencies>
