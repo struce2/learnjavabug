@@ -16,7 +16,7 @@
 <!--    <jackson.version>2.9.9.1</jackson.version>-->
 
     <!--     CVE-2019-20330-->
-        <jackson.version>2.9.10.1</jackson.version>
+        <jackson.version>2.9.10.7</jackson.version>
 
     <!--     CVE-2020-8840-->
     <!--    <jackson.version>2.10.2</jackson.version>-->
