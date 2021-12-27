@@ -97,7 +97,7 @@
     <dependency>
       <groupId>br.com.anteros</groupId>
       <artifactId>Anteros-Core</artifactId>
-      <version>1.2.1</version>
+      <version>1.3.6</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/br.com.anteros/Anteros-DBCP -->
     <dependency>
